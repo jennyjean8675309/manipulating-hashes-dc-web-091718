@@ -9,6 +9,4 @@ def second_challenge
   grocery_items = groceries.values
   grocery_items.flatten
 
-  
-
 end
